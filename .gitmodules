@@ -1,0 +1,3 @@
+[submodule "src/main/java/org/trino"]
+	path = src/main/java/org/trino
+	url = git@github.com:trinodb/trino.git
